@@ -16,19 +16,19 @@ A live commenting system for interactive events on a large scale. Event particip
 
 Web application; React framework
 
-[Github](https://github.com/antenna3mt/danmaku-web)
+[Github: danmaku-web](https://github.com/antenna3mt/danmaku-web)
 
 ### Display-end
 
 JavaFX2
 
-[Github](https://github.com/antenna3mt/danmaku-display)
+[Github: danmaku-display](https://github.com/antenna3mt/danmaku-display)
 
 ### Server-end
 
 API server; golang
 
-[Github](https://github.com/antenna3mt/danmaku-server)
+[Github: danmaku-server](https://github.com/antenna3mt/danmaku-server)
 
 ### Communication
 
