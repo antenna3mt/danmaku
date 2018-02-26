@@ -14,7 +14,7 @@ A live commenting system for interactive events on a large scale. Event particip
 
 ### Participator-end & Manager-end
 
-Web application; React framework
+Web application; React-Redux-dva
 
 [Github: danmaku-web](https://github.com/antenna3mt/danmaku-web)
 
