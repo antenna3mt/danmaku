@@ -10,6 +10,28 @@ A live commenting system for interactive events on a large scale. Event particip
 4. Multi-users are allowed
 5. Display-end fetches the comments and display them on screen. Comments can be on the top layer and overlap other contents on screen.
 
+## Try Demo
+
+### Push comments online:
+
+[Danmaku-web](http://danmaku.solidmatrices.com)
+
+Login Token: cc123456
+
+### Display comments offline
+
+Download executable jar [Danmaku-display](https://github.com/antenna3mt/danmaku-display/blob/master/danmaku_display.jar)
+
+Connect Token: dd123456
+
+Click "Connect"
+
+ - Click "Fetch" to fetch the comments from remote server.
+ - Click "Test" to test the functionalities.
+ - Click "Push" to push comments.
+
+**Multi-screen for better experience**
+
 ## Technical Stuff
 
 ### Participator-end & Manager-end
